@@ -17,6 +17,7 @@ choco install nodejs-lts
 choco install slack
 choco install discord
 choco install office365business
+choco install docker-desktop
 ```
 
 # Other Things

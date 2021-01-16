@@ -12,3 +12,7 @@ or visit https://chocolatey.org/install
 choco install googlechrome
 choco install vscode
 ```
+
+# Other Things
+- docker : https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+- Steinberg USB Driver : https://kr.yamaha.com/ko/support/updates/yamaha_steinberg_usb_driver_for_win.html

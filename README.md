@@ -16,7 +16,6 @@ choco install git
 choco install nodejs-lts
 choco install slack
 choco install discord
-choco install office365business
 choco install docker-desktop
 ```
 
@@ -26,3 +25,4 @@ choco install docker-desktop
 - 구라제거기 : https://teus.tistory.com/
 - RDP Wrapper : https://github.com/stascorp/rdpwrap/releases
 - GoodbyeDPI : https://github.com/ValdikSS/GoodbyeDPI/releases
+- Office 365 : https://www.office.com/

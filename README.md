@@ -25,3 +25,4 @@ choco install docker-desktop
 - Steinberg USB Driver : https://kr.yamaha.com/ko/support/updates/yamaha_steinberg_usb_driver_for_win.html
 - 구라제거기 : https://teus.tistory.com/
 - RDP Wrapper : https://github.com/stascorp/rdpwrap/releases
+- GoodbyeDPI : https://github.com/ValdikSS/GoodbyeDPI/releases

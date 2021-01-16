@@ -13,6 +13,7 @@ choco install googlechrome
 choco install vscode
 choco install steam
 choco install git
+choco install nodejs-lts
 ```
 
 # Other Things

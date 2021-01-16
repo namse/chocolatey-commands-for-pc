@@ -12,7 +12,7 @@ or visit https://chocolatey.org/install
 choco install googlechrome
 choco install vscode
 choco install steam
-
+choco install git
 ```
 
 # Other Things

@@ -27,3 +27,4 @@ choco install docker-desktop
 - GoodbyeDPI : https://github.com/ValdikSS/GoodbyeDPI/releases
 - Office 365 : https://www.office.com/
 - Kakao Talk : https://www.kakaocorp.com/service/KakaoTalk
+- League of Legends : https://download.kr.riotgames.com/league

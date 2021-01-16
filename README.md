@@ -20,3 +20,4 @@ choco install nodejs-lts
 - docker : https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 - Steinberg USB Driver : https://kr.yamaha.com/ko/support/updates/yamaha_steinberg_usb_driver_for_win.html
 - 구라제거기 : https://teus.tistory.com/
+- RDP Wrapper : https://github.com/stascorp/rdpwrap/releases

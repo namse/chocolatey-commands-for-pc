@@ -26,3 +26,4 @@ choco install docker-desktop
 - RDP Wrapper : https://github.com/stascorp/rdpwrap/releases
 - GoodbyeDPI : https://github.com/ValdikSS/GoodbyeDPI/releases
 - Office 365 : https://www.office.com/
+- Kakao Talk : https://www.kakaocorp.com/service/KakaoTalk

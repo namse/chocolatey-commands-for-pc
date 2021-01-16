@@ -14,6 +14,9 @@ choco install vscode
 choco install steam
 choco install git
 choco install nodejs-lts
+choco install slack
+choco install discord
+choco install office365business
 ```
 
 # Other Things

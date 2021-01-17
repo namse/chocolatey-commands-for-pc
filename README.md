@@ -17,6 +17,7 @@ choco install nodejs-lts
 choco install slack
 choco install discord
 choco install docker-desktop
+choco install barrier
 ```
 
 # Other Things

@@ -30,3 +30,4 @@ choco install barrier
 - Kakao Talk : https://www.kakaocorp.com/service/KakaoTalk
 - League of Legends : https://download.kr.riotgames.com/league
 - Adobe Creative Cloud : https://www.adobe.com/kr/creativecloud/desktop-app.html
+- Ubuntu gnome in wsl2 :  https://gist.github.com/Ta180m/e1471413f62e3ed94e72001d42e77e22
